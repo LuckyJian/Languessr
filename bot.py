@@ -9,7 +9,7 @@ async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text('Hello! This bot can define languages of your input texts. Put some text in here.')
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text('Start with the /start command. The list of supported languages:')
+    await update.message.reply_text('Start with the /start command. The list of supported languages: English, German, French, Swedish, Finnish, Norwegian, Dannish, Icelandic, Faroese, Dutch, Italian, Spanish, Portugese, Romanian, Hungarian, Latvian, Lithuanian, Czech, Slovak, Serbian, (Cyrillic), Serbian, (Latin), Polish, Estonian, Bulgarian, Slovenian, Croatian, Macedonian, Russian, Ukrainian, Belarusian, Ingush, Chechen, Georgian, Greek, Cherokee, Hindi, Tatar, Ossetian, Hebrew, Persian, Lezgian, Udmurt, Moksha, Chukchi, Chinese, (simplified), Japanese, Korean, Turkish, Kazarh(Cyrillic), Kazarh(Latin), Buryat, Yiddish, Afrikaans, Karelian, Bengali, Telugu, Azerbaijani, Indonesian, Vietnamese, Catalan, Sardinian, Tajik, Uzbek, Kyrgyz, Malay, Thai, Burmese, Khmer, Amharic, Tamil')
 
 async def handle_response(text: str) -> str:
     lower = text.lower()
@@ -63,6 +63,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
             return
     else:
         return
+
     print('Bot', response)
     await update.message.reply_text(response)
 
