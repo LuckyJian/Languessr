@@ -13,25 +13,21 @@
 
 https://www.youtube.com/watch?v=vZtm1wuA2yc - How to create a telegram bot in Python for beginners
 
-https://en.wikipedia.org/wiki/Arabic_alphabet
+https://travelwithlanguages.com/blog/most-common-irish-words.html - ирландские частотные слова
 
-https://travelwithlanguages.com/blog/most-common-irish-words.html 
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists - частотные слова
 
-https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
+https://translate.google.com/;%29 - частотные слова
 
-https://translate.google.com/;%29
+https://github.com/frekwencja/most-common-words-multilingual - частотные слова
 
-https://github.com/frekwencja/most-common-words-multilingual
+https://www.101languages.net/common-words/ - частотные слова
 
-https://www.101languages.net/common-words/
+https://www.youtube.com/watch?v=DuIGsyCaK28 - частотные слова
 
-https://www.youtube.com/watch?v=DuIGsyCaK28
+https://www.learn-thai-podcast.com/what-are-the-300-most-common-thai-words/ - тайские частотные слова
 
-https://www.learn-thai-podcast.com/what-are-the-300-most-common-thai-words/
+https://www.expatden.com/learn-thai/top-3000-thai-vocabularies/ - тайские частотные слова
 
-https://www.expatden.com/learn-thai/top-3000-thai-vocabularies/
-
-https://ling-app.com/th/50-most-common-thai-words/
-
-https://www.youtube.com/channel/UC4d1m5Kq4GaXcjeKGDgEJSA/joi
+https://www.youtube.com/channel/UC4d1m5Kq4GaXcjeKGDgEJSA/joi - тайские частотные слова
 
