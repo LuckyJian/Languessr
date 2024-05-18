@@ -9,6 +9,8 @@
 
 **Как запустить код?**: Скачайте файлы "alphabeths.json", "Top.json" и "bot.py" и поместите их в одну папку или директорию на своем пк. Вам понадобится установить вот этот модуль: python-telegram-bot (pip install python-telegram-bot). Откройте "bot.py" в интерпретаторе питона и запустите программу. Далее зайдите в телеграм и напишите "LangGuesser". Нажмите /start и введите текст на одном из языков, которые записаны во вкладке help чат-бота. Чат-бот выведет распознанный язык
 
+**Презентация**: https://docs.google.com/presentation/d/1awt1TgKsJSjlCr40mdVfNa76hiBYf-9lCgoLwqkVWeQ/edit?usp=sharing
+
 **Ссылки на ресурсы**:
 
 https://www.youtube.com/watch?v=vZtm1wuA2yc - How to create a telegram bot in Python for beginners
